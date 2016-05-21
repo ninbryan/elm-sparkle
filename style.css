@@ -1,0 +1,18 @@
+/*Elm applies these styles*/
+html, head, body {
+    margin: 0;
+    height: 100%;
+}
+
+/*I applied these styles*/
+
+body {
+  /*You will see the toggled style attribute "background-color"*/
+  /*background-color: #572EE7;*/
+  color: #1A1A1A;
+}
+
+b {
+  /*You won't see me in the styles tab of the console*/
+  font-weight: 600;
+}
